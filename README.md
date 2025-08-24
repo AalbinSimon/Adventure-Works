@@ -56,16 +56,4 @@ Adventure-Works leverages comprehensive datasets covering orders, customers, pro
 
 ---
 
-## 🤝 Contributing
 
-We welcome feedback, feature requests, and contributions! Please open an issue or submit a pull request.
-
----
-
-## 📬 Contact
-
-For questions, suggestions, or collaboration, please reach out via GitHub Issues or [your.email@example.com](mailto:your.email@example.com).
-
----
-
-> _“Turning data into decisions!”_

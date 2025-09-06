@@ -53,7 +53,7 @@ Adventure-Works leverages comprehensive datasets covering orders, customers, pro
 - Empower business users and analysts to answer critical sales and marketing questions.
 - Provide reusable templates for advanced revenue and customer analytics.
 - Encourage open collaboration and knowledge sharing.
-
+Example: https://github.com/AalbinSimon/Adventure-Works/blob/main/Screenshot%202025-08-22%20193003.png
 ---
 
 
